@@ -59,6 +59,8 @@ Never gonna let you down
 ![chatgpt r u ok?](Screenshots/ChatgptASCIIArt.png)
 
 ## Jump around?
-Click the hidden letter from this sentence to en[j](#hobbies)oy some section jumps.
+Click the hidden letter from this section to en[j](#hobbies)oy some section jumps.
+
+Hint: it is the first letter of the word "jump".
 
 ## [Back to the top.](#back-to-the-github-repo)
