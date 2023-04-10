@@ -1,7 +1,7 @@
 # Marcelo Shen <!-- omit from toc -->
-
-## Table of Contents 
-- [Table of Contents](#table-of-contents)
+## [Back to the github repo](https://github.com/dowhep/CSE110Lab) 
+## Table of Contents <!-- omit from toc -->
+- [Back to the github repo](#back-to-the-github-repo)
 - [Picture](#picture)
 - [Who am I](#who-am-i)
 - [Who am I as a programmer](#who-am-i-as-a-programmer)
@@ -53,7 +53,7 @@ Never gonna let you down
 - [ ] I make music for fun!
 - [x] I am lying right now!
 
-<sub> Wait hold up...</sub>\
+<sub> Wait hold up...</sub>
 
 ## I used chatgpt for this section of page:
 ![chatgpt r u ok?](Screenshots/ChatgptASCIIArt.png)
@@ -61,4 +61,4 @@ Never gonna let you down
 ## Jump around?
 Click the hidden letter from this sentence to en[j](#hobbies)oy some section jumps.
 
-## [Back to the top.](#table-of-contents)
+## [Back to the top.](#back-to-the-github-repo)
