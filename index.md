@@ -1,6 +1,7 @@
 # Marcelo Shen <!-- omit from toc -->
 
-## Table of Contents <!-- omit from toc -->
+## Table of Contents 
+- [Table of Contents](#table-of-contents)
 - [Picture](#picture)
 - [Who am I](#who-am-i)
 - [Who am I as a programmer](#who-am-i-as-a-programmer)
@@ -9,6 +10,7 @@
 - [Jokes?](#jokes)
 - [Hobbies?](#hobbies)
 - [Two Truths One Lie?](#two-truths-one-lie)
+- [I used chatgpt for this section of page:](#i-used-chatgpt-for-this-section-of-page)
 - [Jump around?](#jump-around)
 - [Back to the top.](#back-to-the-top)
 
@@ -51,9 +53,12 @@ Never gonna let you down
 - [ ] I make music for fun!
 - [x] I am lying right now!
 
-<sub> Wait hold up...</sub>
+<sub> Wait hold up...</sub>\
+
+## I used chatgpt for this section of page:
+![chatgpt r u ok?](Screenshots/ChatgptASCIIArt.png)
 
 ## Jump around?
 Click the hidden letter from this sentence to en[j](#hobbies)oy some section jumps.
 
-## [Back to the top.](#marcelo-shen)
+## [Back to the top.](#table-of-contents)
